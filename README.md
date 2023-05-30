@@ -1,2 +1,4 @@
 # hyprlandrice
-my dotfiles for my hyprland rice
+here are my dotfiles for my very own Hyprland config
+
+
